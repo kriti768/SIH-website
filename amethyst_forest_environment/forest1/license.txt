@@ -1,0 +1,11 @@
+Model Information:
+* title:	Amethyst Forest Environment
+* source:	https://sketchfab.com/3d-models/amethyst-forest-environment-6427cc62f2c44d25bfdf248f20439ba3
+* author:	Bl4ckGh0st (https://sketchfab.com/Bl4ckGh0st)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Amethyst Forest Environment" (https://sketchfab.com/3d-models/amethyst-forest-environment-6427cc62f2c44d25bfdf248f20439ba3) by Bl4ckGh0st (https://sketchfab.com/Bl4ckGh0st) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
