@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fairytale_Garden
+* source:	https://sketchfab.com/3d-models/fairytale-garden-bc4b1df99f764a7384870dd64ed47313
+* author:	Giimann (https://sketchfab.com/giimann)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fairytale_Garden" (https://sketchfab.com/3d-models/fairytale-garden-bc4b1df99f764a7384870dd64ed47313) by Giimann (https://sketchfab.com/giimann) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
